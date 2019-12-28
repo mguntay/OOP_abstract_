@@ -1,0 +1,10 @@
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\obj\Debug\OOP.Enum_.csprojAssemblyReference.cache
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\obj\Debug\OOP.Enum_.Form1.resources
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\obj\Debug\OOP.Enum_.Properties.Resources.resources
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\obj\Debug\OOP.Enum_.csproj.GenerateResource.cache
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\obj\Debug\OOP.Enum_.csproj.CoreCompileInputs.cache
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\bin\Debug\OOP.Enum_.exe.config
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\bin\Debug\OOP.Enum_.exe
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\bin\Debug\OOP.Enum_.pdb
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\obj\Debug\OOP.Enum_.exe
+C:\Users\muammer.guntay\source\repos\OOP.Enum_\OOP.Enum_\obj\Debug\OOP.Enum_.pdb
